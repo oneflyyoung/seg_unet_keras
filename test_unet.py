@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  16 13:19:28 2017
-
-@author: fly
-"""
 
 from __future__ import print_function
 
