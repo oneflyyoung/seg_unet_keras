@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 19 12:47:12 2017
-
-@author: fly
-"""
 
 from keras.optimizers import SGD
 from keras.layers import Dense, Dropout, Embedding, LSTM, Input, Bidirectional
